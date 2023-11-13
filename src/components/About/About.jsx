@@ -1,15 +1,14 @@
-import React from "react";
-
+import Lottie from "lottie-react";
+import animationData from '../../../assets/about/aboutImage.json';
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
-import LottieControl from "./LottieControl";
 
 export const About = () => {
   return (
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        <LottieControl />
+        <Lottie className={styles.aboutImage} animationData={animationData} />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
