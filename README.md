@@ -10,7 +10,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
+1. Clone the repository: `https://github.com/amitamrutiya2210/Amit-Portfolio`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
