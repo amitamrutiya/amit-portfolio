@@ -1,8 +1,8 @@
 {
-  "homepage":"https://amitamrutiya2210.github.io/Amit-Portfolio",
+  "homepage":"https://amitamrutiya2210.github.io/Amit-Portfolio/",
   "name": "amit-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
