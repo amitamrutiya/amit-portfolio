@@ -1,0 +1,81 @@
+[
+  {
+    "title": "StudyNotion",
+    "imageSrc": "projects/study_notion.png",
+    "description": "StudyNotion is an online learning platform that allows students to learn and collaborate with each other. Also allows teachers to create courses and manage students.",
+    "skills": [
+      "Html",
+      "Css",
+      "JavaScript",
+      "React",
+      "Express",
+      "NodeJS",
+      "MongoDB",
+      "Tailwind",
+      "Razorpay",
+      "Git"
+    ],
+    "demo": "https://github.com/amitamrutiya2210/Study-Notion/tree/main#demo",
+    "source": "https://github.com/amitamrutiya2210/Study-Notion",
+    "live": "https://studynootion.netlify.app"
+  },
+  {
+    "title": "Temple Management Web",
+    "imageSrc": "projects/temple.png",
+    "description": "This is a web application for the GSFC Township Charitable Trust Temple situated in Jamnagar. The application serves real users of the temple and offers a range of functionalities.",
+    "skills": [
+      "Html",
+      "Css",
+      "JavaScript",
+      "Ejs",
+      "Express",
+      "NodeJS",
+      "MongoDB",
+      "Razorpay",
+      "Git"
+    ],
+    "demo": "https://github.com/amitamrutiya2210/Temple-Management-App#demo-of-project",
+    "source": "https://github.com/amitamrutiya2210/Temple-Management-Web",
+    "live": "https://temple.cyclic.app/"
+  },
+  {
+    "title": "Temple Management App",
+    "imageSrc": "projects/temple.png",
+    "description": "This is the same project as above, but as a mobile app. It includes features for booking appointments, making online donations, receiving temple updates, providing contact info, displaying an image gallery, and more.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Razorpay",
+      "Git"
+    ],
+    "demo": "https://github.com/amitamrutiya2210/Temple-Management-App#demo-of-project",
+    "source": "https://github.com/amitamrutiya2210/Temple-Management-App"
+  },
+  {
+    "title": "Multiple Games",
+    "imageSrc": "projects/multi_game.png",
+    "description": "I developed a compilation of several games that includes Piano Tile game, Dinosaur Game, AI tic-tac-toe (easy, medium, hard levels), 2048 Game (3X3, 4X4, 5X5, 6X6), Pac-Man Game, and Mini Sweeper Game",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Git"
+    ],
+    "demo": "https://github.com/amitamrutiya2210/multi_game#demo-for-a-game",
+    "source": "https://github.com/amitamrutiya2210/multi_game"
+  },
+  {
+    "title": "Communication Type Survey App",
+    "imageSrc": "projects/comm_type.png",
+    "description": "This application determines users' communication styles based on their responses to specific questions. It allows students to answer 20 questions, and the results for all students are then compiled into the university's Google Sheets.",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Google Sheets",
+      "Git"
+    ],
+    "demo": "https://github.com/amitamrutiya2210/Communication_Type#demo-of-project-",
+    "source": "https://github.com/amitamrutiya2210/Communication_Type"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "heading": "Google Summer of Code - 2023",
+    "role": "Flutter devloper, ",
+    "organisation": "CCExtractor Org",
+    "startDate": "May, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": [
+      "Worked on flood mobile project",
+      "Added some of the new feature",
+      "Upload app to play-store"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "heading": "Prelax Infotexh",
+    "role": "Flutter devloper",
+    "organisation": "",
+    "startDate": "May, 2022",
+    "endDate": "July, 2022",
+    "experiences": [
+      "Learn new flutter and dart technology",
+      "Worked on company's project"
+    ],
+    "imageSrc": "history/prelax.png"
+  }
+]
