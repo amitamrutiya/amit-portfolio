@@ -70,7 +70,7 @@
   padding-left: 5px;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1000px) {
   .container {
     background-color: transparent;
     padding-left: 0;
