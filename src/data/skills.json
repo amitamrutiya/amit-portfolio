@@ -12,12 +12,33 @@
     "imageSrc": "skills/javascript.png"
   },
   {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },
+
+  {
+    "title": "Next JS",
+    "imageSrc": "skills/nextjs.png"
   },
   {
     "title": "Node JS",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Go",
+    "imageSrc": "skills/golang.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
   },
   {
     "title": "MongoDB",

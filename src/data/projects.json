@@ -77,5 +77,20 @@
     ],
     "demo": "https://github.com/amitamrutiya2210/Communication_Type#demo-of-project-",
     "source": "https://github.com/amitamrutiya2210/Communication_Type"
+  },
+  {
+    "title": "MeetNChillChat",
+    "imageSrc": "projects/meet_chill_chat.png",
+    "description": "MeetnChillChat is a video calling, chatting, and streaming application with a backend and a user interface. Enjoy the seamless video calling, streaming and chatting experience.",
+    "skills": [
+      "Go",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "WebSocket"
+    ],
+    "live": "https://meetnchill.onrender.com/",
+    "source": "https://github.com/amitamrutiya2210/MeetnChillChat"
   }
 ]
