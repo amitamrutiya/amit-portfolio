@@ -16,6 +16,10 @@
     "imageSrc": "skills/typescript.png"
   },
   {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.svg"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },

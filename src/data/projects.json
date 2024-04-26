@@ -83,14 +83,15 @@
     "imageSrc": "projects/meet_chill_chat.png",
     "description": "MeetnChillChat is a video calling, chatting, and streaming application with a backend and a user interface. Enjoy the seamless video calling, streaming and chatting experience.",
     "skills": [
-      "Go",
-      "HTML",
-      "CSS",
-      "JavaScript",
+      "NextJS",
+      "TypeScript",
+      "Tailwind",
+      "ShadCN",
       "Git",
-      "WebSocket"
+      "WebRTC"
     ],
-    "live": "https://meetnchill.onrender.com/",
-    "source": "https://github.com/amitamrutiya2210/MeetnChillChat"
+    "demo": "https://meetn-chat.vercel.app/",
+    "live": "https://meetn-chat.vercel.app/",
+    "source": "https://github.com/amitamrutiya2210/MeetnChat"
   }
 ]
