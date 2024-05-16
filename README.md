@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 ## Features
 
-- About Me: Learn more about me and my skills.
+- About Me: Know more about me and my skills.
 - Projects: Check out the projects I've worked on.
 - Contact: Get in touch with me.
 
