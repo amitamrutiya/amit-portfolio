@@ -20,7 +20,7 @@ function ExperienceDetail() {
                 </li>
                 <li>
                     <p>
-                        In this internship, I I assigend to work on a project which is based on the Flutter and NodeJS. I have to work on the project from half done and have to complete it within the given time frame. Project is based on the E-commerce platform for buy and sell the clothes online</p>
+                        In this internship, I got to work on a project which is based on the Flutter and NodeJS. I have to work on the project from half done and have to complete it within the given time frame. Project is based on the E-commerce platform for buy and sell the clothes online</p>
                 </li>
                 <li>
                     <p>
