@@ -15,9 +15,23 @@
       "Razorpay",
       "Git"
     ],
-    "demo": "https://github.com/amitamrutiya2210/Study-Notion/tree/main#demo",
-    "source": "https://github.com/amitamrutiya2210/Study-Notion",
+    "demo": "https://github.com/amitamrutiya/Study-Notion/tree/main#demo",
+    "source": "https://github.com/amitamrutiya/Study-Notion",
     "live": "https://studynootion.netlify.app"
+  },
+  {
+    "title": "Bitcoin Transaction Validator",
+    "imageSrc": "projects/bitcoin.png",
+    "description": "Simulation the mining process of a block, which involves validating and including transactions from a given set of transactions. Folder named mempool that contains JSON files representing individual transactions, some of which may be invalid. The result is to mine a block by including only the valid transactions.",
+    "skills": [
+      "TypeScript",
+      "Bitcoin",
+      "Web3",
+      "NodeJS",
+      "Git"
+    ],
+    "demo": "https://github.com/amitamrutiya/Bitcoin-Tx-Validator",
+    "source": "https://github.com/amitamrutiya/Bitcoin-Tx-Validator"
   },
   {
     "title": "Temple Management Web",
@@ -49,8 +63,8 @@
       "Razorpay",
       "Git"
     ],
-    "demo": "https://github.com/amitamrutiya2210/Temple-Management-App#demo-of-project",
-    "source": "https://github.com/amitamrutiya2210/Temple-Management-App"
+    "demo": "https://github.com/amitamrutiya/Temple-Management-App#demo-of-project",
+    "source": "https://github.com/amitamrutiya/Temple-Management-App"
   },
   {
     "title": "Multiple Games",
@@ -61,8 +75,8 @@
       "Dart",
       "Git"
     ],
-    "demo": "https://github.com/amitamrutiya2210/multi_game#demo-for-a-game",
-    "source": "https://github.com/amitamrutiya2210/multi_game"
+    "demo": "https://github.com/amitamrutiya/multi_game#demo-for-a-game",
+    "source": "https://github.com/amitamrutiya/multi_game"
   },
   {
     "title": "Communication Type Survey App",
@@ -75,8 +89,8 @@
       "Google Sheets",
       "Git"
     ],
-    "demo": "https://github.com/amitamrutiya2210/Communication_Type#demo-of-project-",
-    "source": "https://github.com/amitamrutiya2210/Communication_Type"
+    "demo": "https://github.com/amitamrutiya/Communication_Type#demo-of-project-",
+    "source": "https://github.com/amitamrutiya/Communication_Type"
   },
   {
     "title": "MeetNChillChat",
@@ -88,10 +102,58 @@
       "Tailwind",
       "ShadCN",
       "Git",
-      "WebRTC"
+      "WebRTC",
+      "Socket.io"
     ],
     "demo": "https://meetn-chat.vercel.app/",
     "live": "https://meetn-chat.vercel.app/",
-    "source": "https://github.com/amitamrutiya2210/MeetnChat"
+    "source": "https://github.com/amitamrutiya/MeetnChat"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expense_tracker.png",
+    "description": "This is a full-stack application that allows users to track their expenses. It includes features for adding, deleting, and updating expenses, as well as a user dashboard with interactive graph.",
+    "demo": "https://expense-tracker-pur1.onrender.com",
+    "source": "https://github.com/amitamrutiya/Expense-Tracker",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Express",
+      "NodeJS",
+      "MongoDB",
+      "Appolo Graphql",
+      "Git"
+    ]
+  },
+  {
+    "title": "SocioBot",
+    "imageSrc": "projects/socio_bot.png",
+    "description": "This project is a Telegram bot that generates engaging social media posts based on the events you feed it throughout the day. It uses OpenAI's model to generate the posts.",
+    "demo": "https://t.me/socio_media_bot",
+    "source": "https://github.com/amitamrutiya/SocioBot",
+    "skills": [
+      "NodeJS",
+      "TypeScript",
+      "Telegraph",
+      "OpenAI GPT-3",
+      "MongoDB",
+      "Git"
+    ]
+  },
+  {
+    "title": "Go Multi Projects",
+    "imageSrc": "projects/go_multi_projects.svg",
+    "description": "This project contains a curated collection of Go projects ranging from basic to advanced levels. It is open-source project that serves as an excellent resource for developers looking to learn GoLang. Each project is designed to showcase specific concepts and features of Go.",
+    "demo": "https://github.com/amitamrutiya/Go-Multi-Projects",
+    "source": "https://github.com/amitamrutiya/Go-Multi-Projects",
+    "skills": [
+      "Go",
+      "Docker",
+      "Database",
+      "Apis",
+      "Bots",
+      "CURD",
+      "Git"
+    ]
   }
 ]

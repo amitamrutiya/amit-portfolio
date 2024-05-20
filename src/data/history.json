@@ -1,5 +1,18 @@
 [
   {
+    "heading": "CodExpert Solution",
+    "role": "Full stack Developer, ",
+    "organisation": "",
+    "startDate": "December, 2023",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Worked on flutter project",
+      "Added some of the new feature",
+      "Created some backend Api in javascript"
+    ],
+    "imageSrc": "history/codexpert.png"
+  },
+  {
     "heading": "Google Summer of Code - 2023",
     "role": "Flutter devloper, ",
     "organisation": "CCExtractor Org",
