@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Amit</h1>
         <p className={styles.description}>
-          I am a versatile full-stack developer, specializing in both web and app development. Feel free to connect for more information or collaboration opportunities!
+          Full-stack developer with 5,000+ open-source contributions (CNCF, GSoC, Layer5) and 1,000+ DSA problems solved, building scalable web & mobile apps using React, Node.js, and Flutter.
         </p>
         <a href="mailto:amitamrutiya2210@email.com" className={styles.contactBtn}>
           Contact Me

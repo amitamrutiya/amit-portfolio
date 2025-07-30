@@ -1,5 +1,23 @@
 [
   {
+    "title": "JournAI",
+    "imageSrc": "projects/journai.svg",
+    "description": "AI-powered journaling app to reflect on thoughts, track emotions, and gain deeper insights into mental health. Features like Rich text editor, mood tracking, and personalized insights.",
+    "skills": [
+      "NextJS",
+      "TypeScript",
+      "NodeJS",
+      "Java",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "Tailwind",
+      "ShadCN"
+    ],
+    "source": "https://github.com/amitamrutiya/journai",
+    "Demo": "https://journai.store"
+  },
+  {
     "title": "StudyNotion",
     "imageSrc": "projects/study_notion.png",
     "description": "StudyNotion is an online learning platform that allows students to learn and collaborate with each other. Also allows teachers to create courses and manage students.",

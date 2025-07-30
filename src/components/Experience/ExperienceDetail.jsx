@@ -4,6 +4,91 @@ function ExperienceDetail() {
     return (
         <div className={styles.container}>
             <div className={styles.title}>
+                <h1>Layer5 – Part-Time Software Engineer – 2025</h1>
+            </div>
+            <ul className={styles.description}>
+                <li>
+                    <p>
+                        Designed and implemented a fully{" "}
+                        <a href="https://github.com/layer5io/sistent/pull/915" className={styles.link}>
+                            customizable dashboard
+                        </a>{" "}
+                        for Meshery, enabling flexible layout configurations and enhancing user productivity through intuitive UX improvements.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Developed an{" "}
+                        <a href="https://github.com/layer5io/sistent/pull/776" className={styles.link}>
+                            interactive empty canvas workflow
+                        </a>{" "}
+                        featuring guided walkthroughs, a reusable component catalog, and drag-and-drop capabilities to streamline user onboarding and workflow creation.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Engineered a real-time UI to visualize{" "}
+                        <a href="https://github.com/layer5io/sistent/pull/872" className={styles.link}>
+                            multi-cluster Kubernetes resources
+                        </a>, improving cluster observability and operational awareness.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Reduced technical debt and improved application performance by upgrading core dependencies:
+                        <a href="https://github.com/meshery/meshery/pull/13482" className={styles.link}> MUI v4→v5</a> and{" "}
+                        <a href="https://github.com/meshery/meshery/pull/13612" className={styles.link}>Node.js v18→v20</a>.
+                    </p>
+                </li>
+            </ul>
+            <hr />
+            <div className={styles.title}>
+                <h1>Linux Foundation Mentorship – Meshery – 2025</h1>
+                <a
+                    href="https://mentorship.lfx.linuxfoundation.org/project/2ce4cf0b-05e0-430a-b9e1-3df46d917ef6"
+                    target="_blank"
+                >
+                    <button className={styles.certificateButton}>Certificate</button>
+                </a>
+            </div>
+            <ul className={styles.description}>
+                <li>
+                    <p>
+                        Modernized state management by migrating from traditional Redux to{" "}
+                        <a href="https://github.com/meshery/meshery/pull/14665" className={styles.link}>
+                            Redux Toolkit (RTK)
+                        </a>, resulting in cleaner code structure and improved runtime performance.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Led the upgrade of{" "}
+                        <a href="https://github.com/meshery/meshery/pull/14665" className={styles.link}>
+                            MUI from v5 to v6
+                        </a>{" "}
+                        across 50+ UI components, refining component hierarchy and improving rendering efficiency.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Designed and implemented a new modal interface to{" "}
+                        <a href="https://github.com/meshery/meshery/pull/14628" className={styles.link}>
+                            manage resources across organizations, workspaces, and teams
+                        </a>, enhancing collaborative workflows.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Enabled a schema-driven architecture by{" "}
+                        <a href="https://github.com/meshery/schemas/pull/231" className={styles.link}>
+                            centralizing data definitions
+                        </a> across UI microservices, improving data consistency and scalability.
+                    </p>
+                </li>
+            </ul>
+            <hr />
+
+            <div className={styles.title}>
                 <h1>Code Expert Solusions - 2024</h1>
                 <a
                     href="https://drive.google.com/file/d/12MHSBjBiGtWHKhgAPfJjd4Yvv4N3BxQS/view?usp=drive_link"
@@ -107,7 +192,7 @@ function ExperienceDetail() {
                 </li>
 
             </ul>
-        </div>
+        </div >
     );
 }
 

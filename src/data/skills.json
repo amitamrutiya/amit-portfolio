@@ -16,6 +16,22 @@
     "imageSrc": "skills/typescript.png"
   },
   {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "c++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "postgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.svg"
   },
@@ -23,7 +39,6 @@
     "title": "React",
     "imageSrc": "skills/react.png"
   },
-
   {
     "title": "Next JS",
     "imageSrc": "skills/nextjs.png"
